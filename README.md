@@ -4,6 +4,15 @@ Smart AI-based spam detection system that accurately identifies and filters unwa
 
 ---
 
+## 📊 Dataset
+
+The dataset used in this project is  publicly available on Kaggle
+👉 Download from https://www.kaggle.com/datasets/mfaisalqureshi/spam-email/code
+
+The dataset (spam.csv) should contain at least two columns:
+Category: Label of the message (spam or ham)
+Message: The actual text content of the message
+
 ## 🚀 Features
 
 - **Context-Aware Filtering:** Goes beyond keywords to understand message meaning and intent.  
